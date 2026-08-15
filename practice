@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Event Hub</title>
+</head>
+
+<body>
+<header>
+    <h1>Event Hub</h1>
+    <nav>
+        <ul>
+            <li><a href="#upcoming-events">Upcoming Events</a></li>
+            
+            <li><a href="#past-events">Past Events</a></li>
+    </header>
+    </nav>
+    </ul>
+
+    <main>
+        <section id="upcoming-events">
+        
+            <h2>Upcoming Events</h2>
+            <article>
+            <h3>AI & Digital Innovation Meetup</h3>
+            <p>
+                A community event exploring how artificial intelligence and digital tools are changing the way we work, learn, and create.
+            </p>
+            <p>Date: September 12, 2026</p>
+             </article>
+
+             <article>
+                <h3>Front-End Development Workshop</h3>
+                <p>A hands-on workshop for beginners interested in learning the basics of HTML, CSS, and JavaScript while building a simple webpage.</p>
+
+                <p>Date: September 26, 2026</p>
+                 
+                </article>
+         </section>
+
+         <section id="past-events">
+            <h2>Past Events</h2>
+            <article>
+                <h3>Future of Technology Student Summit</h3>
+                <p>A student-focused event discussing emerging technologies and how young people can prepare for careers in the digital world.
+                    </p>  
+                    <p>Date: June 14, 2026
+                        </p> 
+                <img src="https://cdn.freecodecamp.org/curriculum/labs/past-event1.jpg" alt="digital world"></img>
+             </article>
+
+             <article>
+                <h3>Introduction to Cybersecurity Workshop</h3>
+                <p>A beginner-friendly session covering online safety, common cyber threats, and simple ways to protect personal information.</p>
+                <p>Date: May 23, 2026</p>
+                <img src="https://cdn.freecodecamp.org/curriculum/labs/past-event2.jpg"alt="technology"></img>  
+                </article>
+             </section>
+        </main>                
+
+
+
+</body>
+
+</html>
